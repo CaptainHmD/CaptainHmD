@@ -35,7 +35,6 @@
 
 </td>
 </tr>
-  <br/>
 
   <tr> <td valign="top" width="100%">
 
@@ -70,7 +69,7 @@
 </td></tr></table>  
 </div>
 
-<br/>  
+  <br/>
 
 
 ## Connect with me  
