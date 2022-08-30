@@ -32,7 +32,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="100%">
+</td></tr>
+  <tr> <td valign="top" width="100%">
 
 
 
@@ -49,7 +50,8 @@
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="100%">
+</td></tr>
+   <tr> <td valign="top" width="100%">
 
 
 
