@@ -34,7 +34,7 @@
 
 </td><td valign="top" width="33%">
 
-
+<br/>
 
 ### Backend  
 <div align="center">  
@@ -51,7 +51,7 @@
 
 </td><td valign="top" width="33%">
 
-
+<br/>
 
 ### DevOps  
 <div align="center">  
