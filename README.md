@@ -3,7 +3,7 @@
 ### <div align="center">I'm Hamad, a full-time full-stack Web-Developer  , freelance developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/CaptainHmD/Web-Services)  
+- 🔭 I’m currently working on [Web-Services](https://github.com/CaptainHmD/Web-Services)  
   
 
 - 🌱 I’m currently learning Web-Services  
