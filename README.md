@@ -113,9 +113,14 @@
 <br/>  
 
 
-## Github Stats  
-<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=CaptainHmD&show_icons=true&theme=radical" />
-<img  width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+## Github Stats 
+<div align="center">
+<img align="center" width="49%"  src="https://raw.githubusercontent.com/captainhmd/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+<img align="center" width="49%"  src="https://raw.githubusercontent.com/captainhmd/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<br />
+<br />
+<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=CaptainHmD&show_icons=true&theme=radical" />
+</div>
 
 <br/>  
  
