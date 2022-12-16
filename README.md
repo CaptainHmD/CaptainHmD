@@ -3,10 +3,10 @@
 ### <div align="center">I'm Hamad, a full-time full-stack Web-Developer  , freelance developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Web-Services](https://github.com/CaptainHmD/Web-Services)  
+- 🔭 I’m currently working on [React](https://github.com/CaptainHmD/react)  
   
 
-- 🌱 I’m currently learning Web-Services  
+- 🌱 I’m currently learning React 
   
 
 - ❓ Ask me about anything related to Front-End Development  
