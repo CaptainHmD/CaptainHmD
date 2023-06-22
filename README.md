@@ -3,13 +3,13 @@
 ### <div align="center">I'm Hamad, a full-time full-stack Web-Developer  , freelance developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [PHP](https://github.com/CaptainHmD/PHP-Crash.git)  
+- 🔭 I’m currently working on [Live-Chat]([https://github.com/CaptainHmD/PHP-Crash.git](https://github.com/CaptainHmD/Live-Chat))  
   
 
 - 🌱 I’m currently learning PHP 
   
 
-- ❓ Ask me about anything related to Front-End Development  
+- ❓ Ask me about anything related to Front-End/Back-End Development  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
