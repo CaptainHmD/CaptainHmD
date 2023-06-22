@@ -3,7 +3,7 @@
 ### <div align="center">I'm Hamad, a full-time full-stack Web-Developer  , freelance developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Live-Chat]([https://github.com/CaptainHmD/PHP-Crash.git](https://github.com/CaptainHmD/Live-Chat))  
+- 🔭 I’m currently working on [Live-Chat](https://github.com/CaptainHmD/Live-Chat)  
   
 
 - 🌱 I’m currently learning PHP 
