@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Live-Chat](https://github.com/CaptainHmD/Live-Chat)  
   
 
-- 🌱 I’m currently learning [Docker](https://www.docker.com/) 
+- 🌱 I’m currently learning [NestJS](https://nestjs.com/) 
   
 
 - ❓ Ask me about anything related to Front-End/Back-End Development  
